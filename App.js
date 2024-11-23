@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 24,
-    color: 'black',
+    color: 'blue',
     fontWeight: 'bold',
     marginBottom: 20, // Jarak antara teks dan kotak
   },
